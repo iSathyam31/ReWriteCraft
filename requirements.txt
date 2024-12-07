@@ -1,0 +1,8 @@
+ipykernel
+langchain==0.2.10
+langchain_community==0.2.10
+langchain-openai==0.1.17
+langchain-groq==0.1.6
+langchain-ollama==0.1.0
+python-dotenv==1.0.1
+streamlit
