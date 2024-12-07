@@ -1,3 +1,13 @@
+---
+title: Text Rewrite with LangChain
+emoji: 😎
+colorFrom: green
+colorTo: blue
+sdk: streamlit
+app_file: app.py
+pinned: false
+---
+
 # ReWriteCraft: Text Rewrite with Custom Tone and Dialect 🎨
 ## Introduction
 Welcome to **ReWriteCraft**! 🎉 This project allows you to rewrite your text in a customized tone and dialect using the **LLama 3.1** model. The app provides an intuitive interface to input your draft text and apply different tones (Formal/Informal) and dialects (American/British).
